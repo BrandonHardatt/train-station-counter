@@ -1,0 +1,6 @@
+//create git repo via github
+navigate to local folder 
+git add .
+git commit -m "Initial commit"
+git push --set-upstream https://github.com/BrandonHardatt/train-station-counter.git master
+git status
